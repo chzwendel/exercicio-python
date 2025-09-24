@@ -35,7 +35,7 @@ agendamento_id_counter = 1
 
 
 def mostrar_menu():
-    print("\n--- BARBEARIA DO JOE ---")
+    print("\n--- BARBEARIA DO CHRIS ---")
     print("1. Agendar um serviço")
     print("2. Ver serviços e preços")
     print("3. Ver barbeiros disponíveis")
@@ -166,3 +166,4 @@ def rodar_aplicativo():
 if __name__ == "__main__":
 
     rodar_aplicativo()
+
